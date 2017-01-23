@@ -1,0 +1,3 @@
+Open up 'FRC Field 2017.SLDASM' in Solidworks.
+From the Gazebo plugin, export the model.
+The exporter will generate the meshes, sdfs and config files for the field.
